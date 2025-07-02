@@ -16,7 +16,7 @@ This repo contains solutions and labs for the Coursera course: Introduction to N
 
 ## Progress
 - [x] Module 1 – Tensors & Datasets  
-- [ ] Module 2 – Linear Regression  
+- [x] Module 2 – Linear Regression  
 - [ ] Module 3 – Linear Regression: PyTorch Way  
 - [ ] Module 4 – Multi‑Input/Output Regression  
 - [ ] Module 5 – Logistic Regression & Classifiers  
