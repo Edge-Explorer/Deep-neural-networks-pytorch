@@ -1,5 +1,5 @@
 # Deep-neural-networks-pytorch
-This repository contains, labs, and notes written by me from the Coursera course "Deep Neural Networks with PyTorch", offered by IBM.
+This repository contains, labs from the Coursera course "Deep Neural Networks with PyTorch", offered by IBM.
 
 # Deep Neural Networks with PyTorch
 
